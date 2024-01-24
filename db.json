@@ -1,0 +1,73 @@
+{
+  "productList": [
+    {
+      "id": "75d3",
+      "iotName": "hung",
+      "phankhuc": "caocap",
+      "freshness": "Cty1",
+      "price": 32531,
+      "comment": "2323",
+      "date": "2024-01-10T17:00:00.000Z"
+    },
+    {
+      "id": "0433",
+      "iotName": "huyen",
+      "phankhuc": "caocap",
+      "freshness": "Cty2",
+      "price": 6,
+      "comment": "xinh gai",
+      "date": "2023-12-31T17:00:00.000Z"
+    },
+    {
+      "id": "1363",
+      "iotName": "ngat",
+      "phankhuc": "caocap",
+      "freshness": "Cty3",
+      "price": 300,
+      "comment": "asdf",
+      "date": "2024-01-07T17:00:00.000Z"
+    },
+    {
+      "id": "b891",
+      "iotName": "hieu",
+      "phankhuc": "thuong",
+      "freshness": "Cty2",
+      "price": 44444,
+      "comment": "sf",
+      "date": "2024-01-21T17:00:00.000Z"
+    },
+    {
+      "id": "005f",
+      "iotName": "me",
+      "phankhuc": "caocap",
+      "freshness": "Cty2",
+      "price": 32531,
+      "comment": "sss",
+      "date": "2024-01-10T17:00:00.000Z"
+    },
+    {
+      "id": "2e70",
+      "iotName": "sdasd",
+      "phankhuc": "thuong",
+      "freshness": "Cty3",
+      "price": 1,
+      "comment": "sd",
+      "date": "2024-01-08T17:00:00.000Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
